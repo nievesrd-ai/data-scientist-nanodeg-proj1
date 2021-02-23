@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MS Visual Code project settings
+workspace.code-workspace
+
+# Project-specific data folders
+covid_daily_confirm
+covid_vaccination_progress
