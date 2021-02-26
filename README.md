@@ -48,5 +48,5 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 * [StackOverFlow](https://stackoverflow.com/)
 * [Kaggle](https://www.kaggle.com/)
-* [Geeks for Geeks]https://www.geeksforgeeks.org/
-* [kite]https://www.kite.com/
+* [Geeks for Geeks](https://www.geeksforgeeks.org/)
+* [kite](https://www.kite.com/)
