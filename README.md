@@ -9,8 +9,8 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 		git clone https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git
 		data-scientist-nanodeg-proj1
 	```
-2. Download the [Vaccination](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/metadata).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
-3. Download the [Infection](https://www.kaggle.com/josephassaker/covid19-global-dataset).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
+2. Download the [Vaccination Dataset](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/metadata).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
+3. Download the [Infection Dataset](https://www.kaggle.com/josephassaker/covid19-global-dataset).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
 4. Make sure you have already installed the necessary Python packages according to requirements.txt
 5. Open a terminal and run jupyter notebook command. In the jupyter notebook file browser, open `project_01.ipynb`
 
@@ -19,7 +19,7 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min)
 * [NumPy](https://numpy.org/doc/stable/contents.html)
-* [Jupyter]https://jupyter.org/
+* [Jupyter](https://jupyter.org/)
 * [Matplotlib](https://matplotlib.org/stable/index.html#)
 
 ## Files in Repo
@@ -42,11 +42,11 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 ## Project Links
 
 * [Git](https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git)
-* [Medium Blog Post]()
+* [Medium Blog Post](https://rdniev.medium.com/covrace-a-spacerace-like-event-with-lives-at-stake-43cd0ec4ad3f)
 
 ## Acknowledgements
 
-* [StackOverFlow] (https://stackoverflow.com/)
-* [Kaggle] (https://www.kaggle.com/)
-* [Geeks for Geeks] https://www.geeksforgeeks.org/
-* [kite] https://www.kite.com/
+* [StackOverFlow](https://stackoverflow.com/)
+* [Kaggle](https://www.kaggle.com/)
+* [Geeks for Geeks]https://www.geeksforgeeks.org/
+* [kite]https://www.kite.com/
