@@ -17,10 +17,10 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 
 ## Built With
 
-* [Pandas] (https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min)
-* [NumPy[ (https://numpy.org/doc/stable/contents.html)
-* [Jupyter] https://jupyter.org/
-* [Matplotlib] (https://matplotlib.org/stable/index.html#)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min)
+* [NumPy](https://numpy.org/doc/stable/contents.html)
+* [Jupyter]https://jupyter.org/
+* [Matplotlib](https://matplotlib.org/stable/index.html#)
 
 ## Files in Repo
 
@@ -40,8 +40,9 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Project Links
-* [Git] (https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git)
-* [Medium Blog Post] ()
+
+* [Git](https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git)
+* [Medium Blog Post]()
 
 ## Acknowledgements
 
