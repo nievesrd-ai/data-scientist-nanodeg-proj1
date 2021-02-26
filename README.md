@@ -1,5 +1,5 @@
 ## Project Overview and Motivation
-This project leverages data on covid-19 vaccination and infection rates to draw conclusion on potential correlations between a high vaccination rate and a low infection rate. A subset of countries will be selected and ranked against each other.
+This project leverages data on covid-19 vaccination and infection rates to draw conclusion on potential correlations between a high vaccination rate and a low infection rate. A subset of countries will be selected and ranked against each other. The reach of various vaccine brands is also analyzed
 
 ## Project Instructions
 
@@ -7,11 +7,11 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 	
 	```	
 		git clone https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git
-		data-scientist-nanodeg-proj1
+		cd data-scientist-nanodeg-proj1
 	```
 2. Download the [Vaccination Dataset](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/metadata).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
 3. Download the [Infection Dataset](https://www.kaggle.com/josephassaker/covid19-global-dataset).  Unzip the folder and place it in the repo, at location `data-scientist-nanodeg-proj1/`.
-4. Make sure you have already installed the necessary Python packages according to requirements.txt
+4. Make sure you have already installed the necessary Python packages according to `requirements.txt`
 5. Open a terminal and run jupyter notebook command. In the jupyter notebook file browser, open `project_01.ipynb`
 
 
@@ -33,6 +33,7 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 
 * Nations are stacked against each other to demonstrate leadership on vaccination rate and infection rate for COVID-19
 * No apparent correlation was observed between vaccination rate and infection rates.
+* Pfizer is the vaccine brand with more gloab reach.
 
 
 ## License
