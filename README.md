@@ -24,13 +24,28 @@ This project leverages data on covid-19 vaccination and infection rates to draw 
 
 ## Files in Repo
 
-* 
+* LICENSE - Legal information about license
+* README.md - Human readable file with information about the repo
+* project_01.ipynb - Jupyter Notebook with all relevant code
+* requirements.txt - list of packages needed to run project_01.ipynb
+
+## Summary of Results
+
+* Nations are stacked against each other to demonstrate leadership on vaccination rate and infection rate for COVID-19
+* No apparent correlation was observed between vaccination rate and infection rates.
+
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+## Project Links
+* [Git] (https://github.com/nievesrd-ai/data-scientist-nanodeg-proj1.git)
+* [Medium Blog Post] ()
 
 ## Acknowledgements
 
 * [StackOverFlow] (https://stackoverflow.com/)
 * [Kaggle] (https://www.kaggle.com/)
+* [Geeks for Geeks] https://www.geeksforgeeks.org/
+* [kite] https://www.kite.com/
